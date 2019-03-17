@@ -1,7 +1,7 @@
 # Site
 title:              Cafeína Compilada
-bio:                'Um podcast da UTFPR-CM'
-description:        "Um podcast da UTFPR-CM"
+bio:                'Um podcast da Universidade Tecnológica Federal do Paraná'
+description:        "Um projeto de extensão da Universidade Tecnológica Federal do Paraná"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   Cafeína #taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
